@@ -1,10 +1,17 @@
 - 👋 Hi, I’m @jordirocha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-Hi, there
-<!---
-jordirocha/jordirocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><a href="https://www.google.com/search?&amp;q=C" rel="nofollow"><img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=C++" rel="nofollow"><img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Java" rel="nofollow"><img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Python" rel="nofollow"><img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Javascript" rel="nofollow"><img alt="Javascript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=MySQL" rel="nofollow"><img alt="MySQL" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Git" rel="nofollow"><img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Docker" rel="nofollow"><img alt="Docker" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=React" rel="nofollow"><img alt="React" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Redux" rel="nofollow"><img alt="Redux" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Heroku" rel="nofollow"><img alt="Heroku" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Arch%20Linux" rel="nofollow"><img alt="Arch Linux" width="5%" src="https://camo.githubusercontent.com/2f721e3f2db36d53b7c46e1b55b085d0d63cc243264624490eff2175f6fd35b1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61352f417263686c696e75782d69636f6e2d6372797374616c2d36342e737667" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Ubuntu" rel="nofollow"><img alt="Ubuntu" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Yarn" rel="nofollow"><img alt="Yarn" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Vim" rel="nofollow"><img alt="Vim" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" style="max-width:100%;"></a>
+<a href="https://www.google.com/search?&amp;q=Bash" rel="nofollow"><img alt="Bash" width="5%" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" style="max-width:100%;"></a></p>
