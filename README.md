@@ -1,8 +1,10 @@
 ### Hola mundo, soy Jordi 👋
-
+ 
+ <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-mQAfznBIyUo/XwQlMyNf7WI/AAAAAAAACnA/KpfJEO_zR4sVkVJbJeeyYCYKTkWlfsIGACK4BGAYYCw/s1600/Metodo.gif" width="500" height="320" />
+ 
 Encantado de que estés en mi repositorios, soy un apasionado de la programación, cada día me gusta aprender cosas relacionado con las nuevas tecnologías.
 
- <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-mQAfznBIyUo/XwQlMyNf7WI/AAAAAAAACnA/KpfJEO_zR4sVkVJbJeeyYCYKTkWlfsIGACK4BGAYYCw/s1600/Metodo.gif" width="500" height="320" />
+<br />
 
 ### Lenguajes que utilizo:
 
