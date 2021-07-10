@@ -10,6 +10,8 @@ Encantado de que estés en mi repositorios, soy un apasionado de la programació
 
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
+<br />
+
 ### Lenguajes que utilizo:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
