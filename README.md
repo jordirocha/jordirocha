@@ -20,5 +20,5 @@ Encantado de que estés en mi repositorios, soy un apasionado de la programació
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="30" src="https://github.com/xtenzQ/xtenzQ/blob/master/icons/dot-net.svg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jordirocha=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
