@@ -1,4 +1,4 @@
-<img url="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
+<img src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
 
 ### Hola mundo, soy Jordi 👋
  
