@@ -40,6 +40,7 @@ Encantado de que estés en mi repositorios, soy un apasionado de la programació
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordirocha&show_icons=true&theme=radical&gb_color=#03040d)
 
 
