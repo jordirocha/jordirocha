@@ -3,10 +3,8 @@
  </div>
 
 <!--### Hola mundo, soy Jordi 👋-->
- 
+</br>
 Encantado de que estés en mi repositorios, soy un apasionado de la programación, cada día me gusta aprender cosas relacionado con las nuevas tecnologías.
-
-<br />
 
 ### Programming Languages:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
