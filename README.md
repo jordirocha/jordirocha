@@ -1,6 +1,8 @@
-<img align="center" src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
+<div align="center">
+ <img src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
+ </div>
 
-### Hola mundo, soy Jordi 👋
+<!--### Hola mundo, soy Jordi 👋-->
  
 Encantado de que estés en mi repositorios, soy un apasionado de la programación, cada día me gusta aprender cosas relacionado con las nuevas tecnologías.
 
