@@ -2,7 +2,6 @@
  <img src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
  </div>
 
-<!--### Hola mundo, soy Jordi 👋-->
 </br>
 Encantado de que estés en mi repositorios, soy un apasionado de la programación, cada día me gusta aprender cosas relacionado con las nuevas tecnologías.
 
@@ -35,7 +34,6 @@ Encantado de que estés en mi repositorios, soy un apasionado de la programació
 ### Social:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&layout=compact&exclude_repo=Proyecto-Atlantis-.NET,Programacion&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
