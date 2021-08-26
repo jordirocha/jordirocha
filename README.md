@@ -35,8 +35,9 @@ Encantado de que estés en mi repositorios, soy un apasionado de la programació
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+### About my GitHub: Most lenguages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&layout=compact&exclude_repo=Proyecto-Atlantis-.NET,Programacion&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+### About my GitHub: Details of stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordirocha&show_icons=true&theme=radical&gb_color=#03040d)
 
 
