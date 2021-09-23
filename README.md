@@ -34,7 +34,6 @@ It's a pleasure for me that you stay here, on my repository. Here you will see a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ### Social:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### About my GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&layout=compact&exclude_repo=Proyecto-Atlantis-.NET,Programacion&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
