@@ -64,7 +64,7 @@
  
  ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/jordirocharocha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "jordirocharocha@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
 
