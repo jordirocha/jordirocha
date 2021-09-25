@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jordi</h1>
-<h3 align="center">I'm Junior Web Developer and I'am a passionate from IT from Spain.</h3>
+<h3 align="center">I'm Junior Web Developer and I'm a passionate from IT from Spain.</h3>
 
 <!-- <div align="center">
  <img src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
