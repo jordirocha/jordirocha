@@ -24,11 +24,13 @@
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1" height="44"/>
   <img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo-1024x705.png" height="48" />
+ <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 </p>
 
 ### Web:
 <p align="left"> 
-   <img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png" />
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 </p>
 
 
