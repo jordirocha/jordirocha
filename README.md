@@ -23,12 +23,12 @@
    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1" height="44"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F261-2614514_bash-logo-shell-script-logo-png-transparent-png.png&f=1&nofb=1"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.freepng.es%2F20190226%2Fqab%2Fkisspng-bash-scalable-vector-graphics-logo-printf-format-s-5c75b46bedb4e1.0025959815512177719737.jpg&f=1&nofb=1"/>
 </p>
 
 ### Web:
 <p align="left"> 
-   <img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png"/>
+   <img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png" />
 </p>
 
 
