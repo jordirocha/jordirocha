@@ -62,6 +62,16 @@
  
  </div>
  
- 
+ ## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "jordirocharocha@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jordirocha">
+</a>
+<a href="https://github.com/jordirocha?tab=followers"><img src="https://img.shields.io/github/followers/jordirocha?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
