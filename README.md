@@ -58,19 +58,4 @@
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&layout=compact&exclude_repo=Proyecto-Atlantis-.NET,Programacion&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
  </div>
-<!--
-### Operating System
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-### Version Control:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-### Social:
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-### About my GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&layout=compact&exclude_repo=Proyecto-Atlantis-.NET,Programacion&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordirocha&show_icons=true&theme=radical&gb_color=#03040d)
-
- -->
