@@ -1,5 +1,5 @@
 <div align="center">
- <a href="#"><img width="50%" src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" style="border-radius: 5px"/></a>
+ <img width="50%" src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jordi</h1>
@@ -7,13 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently studying **Development Web Applicactions.**
+- 📚 I’m currently studying **Development Web Applicactions.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **jordirocharocha@gmail.com**
 
-- ⚡ Fun fact **I love watch movies and listenning to music.**
+- ⚡ Fun fact **I love watch movies 🎬 and listenning to music 🎧.**
 
 ## 🚀 Languages and Tools
 
