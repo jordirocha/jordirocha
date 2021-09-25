@@ -1,5 +1,6 @@
-<a href="#"><img align="center" width="50%" src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" /></a>
-
+<div align="center">
+ <a href="#"><img width="50%" src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" /></a>
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jordi</h1>
 <h3 align="center">I'm Junior Web Developer and I'am a passionate from IT from Spain.</h3>
