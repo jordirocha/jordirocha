@@ -23,7 +23,7 @@
    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1" height="44"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.freepng.es%2F20190226%2Fqab%2Fkisspng-bash-scalable-vector-graphics-logo-printf-format-s-5c75b46bedb4e1.0025959815512177719737.jpg&f=1&nofb=1"/>
+  <img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo-1024x705.png" height="44" />
 </p>
 
 ### Web:
