@@ -1,9 +1,14 @@
-<div align="center">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jordi</h1>
+<h3 align="center">I'm Junior Web Developer and I'am a passionate from IT from Spain.</h3>
+
+<!-- <div align="center">
  <img src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
  </div>
 
 </br>
-<!--Encantado de que estés en mi repositorios, soy un apasionado de la programación, cada día me gusta aprender cosas relacionado con las nuevas tecnologías.-->
 It's a pleasure for me that you stay here, on my repository. Here you will see all my projects that I developed and also all lenguages I used during process of my increase profesionality related to programming.  
 
 ### Programming Languages:
@@ -40,4 +45,4 @@ It's a pleasure for me that you stay here, on my repository. Here you will see a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordirocha&show_icons=true&theme=radical&gb_color=#03040d)
 
-
+ -->
