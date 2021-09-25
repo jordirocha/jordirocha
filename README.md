@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love watch movies and listenning to music.**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 ### Programming Languages:
 <p align="left"> 
