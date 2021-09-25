@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" /></a>
+<a href="#"><img align="center" width="50%" src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" /></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jordi</h1>
