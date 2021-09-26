@@ -7,13 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 📚 I’m currently studying **Development Web Applicactions.**
+- 📚 I’m currently studying **Development Web Applicactions**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **jordirocharocha@gmail.com**
 
-- ⚡ Fun fact **I love watch movies 🎬 and listenning to music 🎧.**
+- ⚡ Fun fact **I love watch movies 🎬 and listenning to music 🎧**
 
 ## 🚀 Languages and Tools
 
