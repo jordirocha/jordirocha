@@ -1,5 +1,5 @@
 <div align="center">
- <img width="90%" src="https://github.com/jordirocha/jordirocha/blob/main/banner.gif" style="height: 30px" />
+ <img width="90%" src="https://github.com/jordirocha/jordirocha/blob/main/banner.gif" style="border-radius: 30px" />
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jordi</h1>
