@@ -68,7 +68,7 @@
 <a href = "jordirocharocha@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
 
-## 🎵 What i actually listen 
+## 🎵 What i actually listen:
 
 <p align="center">
   <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true">
