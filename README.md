@@ -73,7 +73,7 @@
 <p align="center">
   <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true">
     <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=37i9dQZF1E35BPEmOSUpzg&cover_image=true&theme=novatorem"/>
-   <img width="100%" alt="Now Playing" src="https://open.spotify.com/playlist/37i9dQZF1E35BPEmOSUpzg&cover_image=true&theme=novatorem"/>
+   <img width="100%" alt="Now Playing" src="https://novatorem-jordirocha.vercel.app/api/view?uid=37i9dQZF1E35BPEmOSUpzg&cover_image=true&theme=novatorem"/>
   </a>
 </p>
 
