@@ -68,10 +68,6 @@
 <a href = "jordirocharocha@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
 
-## 🎵 What i actually listen:
-
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=qy9jhr85so9g8pr6zz7aizc6x&theme=wavy&image=true&bars_when_not_listening=true&bg_color=black&title_color=cyan&text_color=cyan)](https://open.spotify.com/user/07c8709bcdd1440e8e9e23f1390a4136)
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jordirocha">
