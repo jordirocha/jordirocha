@@ -70,19 +70,10 @@
 
 ## 🎵 What i actually listen:
 
-<p align="center">
-  <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=62ev9v7hqkdv8tp3ijsbz97jk&redirect=true">
-    <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=37i9dQZF1E35BPEmOSUpzg&cover_image=true&theme=novatorem"/>
-   <img width="100%" alt="Now Playing" src="https://novatorem-jordirocha.vercel.app/api/view?uid=37i9dQZF1E35BPEmOSUpzg&cover_image=true&theme=novatorem"/>
-  </a>
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jordirocha">
 </a>
 <a href="https://github.com/jordirocha?tab=followers"><img src="https://img.shields.io/github/followers/jordirocha?label=Followers&style=social" alt="GitHub Badge"></a>
-
-[![Spotify](https://novatorem-alpha-one.vercel.app)](https://open.spotify.com/playlist/37i9dQZF1E35BPEmOSUpzg)
-[![Spotify](https://novatorem-jordirocha.vercel.app/api/spotify-playing)](https://open.spotify.com/playlist/37i9dQZF1E35BPEmOSUpzg)
 
