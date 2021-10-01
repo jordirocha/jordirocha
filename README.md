@@ -82,5 +82,4 @@
 </a>
 <a href="https://github.com/jordirocha?tab=followers"><img src="https://img.shields.io/github/followers/jordirocha?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jordy_rg&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=jordy_rg&redirect=true)
+[![Spotify](https://novatorem-alpha-one.vercel.app/)](https://open.spotify.com/user/jordy_rg)
