@@ -59,13 +59,21 @@
  
  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordirocha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+ </div>
  
+ ## 🎵 Spotify playing
+ 
+ <div align="center">
+ 
+ <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordirocha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
  </div>
  
  ## 📱Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/jordirocharocha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "jordirocharocha@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://open.spotify.com/user/jordy_rg"><img src="http://spotify.aio-api.ml/spotify?id=jordy_rg&theme=wavy&image=true&color_theme=radical&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></a>
 </p>
 
 ## ❤ Views and Followers
@@ -74,4 +82,4 @@
 </a>
 <a href="https://github.com/jordirocha?tab=followers"><img src="https://img.shields.io/github/followers/jordirocha?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<a href="https://open.spotify.com/user/jordy_rg"><img src="http://spotify.aio-api.ml/spotify?id=jordy_rg&theme=wavy&image=true&color_theme=radical&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></a>
+
