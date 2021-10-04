@@ -74,3 +74,6 @@
 </a>
 <a href="https://github.com/jordirocha?tab=followers"><img src="https://img.shields.io/github/followers/jordirocha?label=Followers&style=social" alt="GitHub Badge"></a>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviidrf&show_icons=true&theme=radical)
+
