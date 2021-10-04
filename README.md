@@ -64,7 +64,7 @@
  
  ## 🎵 Spotify playing
  
- <div align="center">
+ <div align="middle">
  
  <a href="https://open.spotify.com/user/jordy_rg"><img src="http://spotify.aio-api.ml/spotify?id=jordy_rg&theme=wavy&image=true&color_theme=radical&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></a>
 
