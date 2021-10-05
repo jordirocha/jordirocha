@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **jordirocharocha@gmail.com**
+- 📫 Contact with me **jordirocharocha@gmail.com**
 
-- ⚡ Fun fact **I love watch movies 🎬 and listenning to music 🎧**
+- ⚡ Fun fact **I love watching movies 🎬 and listenning to music 🎧**
 
 ## 🚀 Languages and Tools
 
