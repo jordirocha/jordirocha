@@ -1,19 +1,19 @@
 <div align="center">
- <img width="50%" src="https://github.com/jordirocha/jordirocha/blob/main/header.gif" />
+ <img width="90%" src="https://github.com/jordirocha/jordirocha/blob/main/banner.gif" style="border-radius: 30px !important" />
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jordi</h1>
-<h3 align="center">I'm Junior Web Developer and I'm a passionate from IT from Spain.</h3>
+<h3 align="center">I'm Junior Web Developer and I'm a passionate of Hardware from Spain.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 📚 I’m currently studying **Development Web Applicactions.**
+- 📚 I’m currently studying **Development Web Applicactions**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **jordirocharocha@gmail.com**
+- 📫 Contact with me **jordirocharocha@gmail.com**
 
-- ⚡ Fun fact **I love watch movies 🎬 and listenning to music 🎧.**
+- ⚡ Fun fact **I love watching movies 🎬 and listenning to music 🎧**
 
 ## 🚀 Languages and Tools
 
@@ -37,9 +37,9 @@
 ### Frameworks, Platforms and Libraries:
 <p align="left"> 
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+   <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FjQuery_logo.png&f=1&nofb=1" height="44" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" height="48" />
+     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 </p>
 
 ### Databases:
@@ -52,6 +52,12 @@
 ### Version Control:
  <p align="left"> 
 <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+### Operating System
+ <p align="left"> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
 ## 📊 My Github Stats
@@ -59,13 +65,21 @@
  
  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordirocha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+ </div>
  
+ ## 🎵 Spotify playing
+ 
+ <div align="center">
+ 
+ <a href="https://open.spotify.com/user/jordy_rg"><img src="http://spotify.aio-api.ml/spotify?id=jordy_rg&theme=wavy&image=true&color_theme=radical&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></a>
+
  </div>
  
  ## 📱Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/jordirocharocha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "jordirocharocha@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+ <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </p>
 
 ## ❤ Views and Followers
