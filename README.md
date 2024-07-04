@@ -67,15 +67,7 @@
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordirocha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
  </div>
- 
- ## 🎵 Spotify playing
- 
- <div align="center">
- 
- <a href="https://open.spotify.com/user/jordy_rg"><img src="http://spotify.aio-api.ml/spotify?id=jordy_rg&theme=wavy&image=true&color_theme=radical&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></a>
 
- </div>
- 
  ## 📱Connect with me:
 <p align="left">
 <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
